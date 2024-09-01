@@ -241,7 +241,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background-image: url('/assets/img/dd.jpg');
+  background-image: url('/assets/img/123.png');
   background-size: cover;
   /* position: relative; Ensure a positioning context for child elements */
 }
@@ -262,7 +262,7 @@ h6 {
   z-index: 2;
   min-width: 300px;
   color: #fff; 
-  margin-left: 10px;
+  margin-left: 180px;
 }
 
 #hero h1 {
